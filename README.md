@@ -1,5 +1,5 @@
 # TrollWare-Builder 
-This is a Python based GUI to produce a TrollWare Stub easily. 
+This is a Python based GUI used to produce a TrollWare Stub easily. 
 
 **TrollWare: https://github.com/codeuk/TrollWare**
 

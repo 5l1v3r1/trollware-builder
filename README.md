@@ -18,4 +18,4 @@ Just simply:
 
 
 # Final Notes 📝
-Releasing source code when fully developed (very soon? maybe? kinda?). Please support this project by starring this repository!
+Releasing source code when fully developed (very soon? maybe?). Please support this project by starring this repository!
